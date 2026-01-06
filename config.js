@@ -10,12 +10,12 @@ var config = {
         "Querida, eres mi única",
         "Te amaré por siempre。。。",
     ],
-    // 相爱的时间 记住格式不能写错了, 非常重要
-    // 格式一定要和下面这个时间格式一样
-    // 分别是 年-月-日T时时:分分:秒秒
-    //      温馨警告:
-    //          1.时分秒都必须是俩个数字  比如 00:00:00
-    //          2.T不能丢了
+    // Tiempo desde que se aman (recuerda que el formato no debe estar mal, es muy importante)
+    // El formato debe ser exactamente como el siguiente:
+    // Año-Mes-DíaTHora:Minuto:Segundo
+    // Aviso importante:
+    // 1. Hora, minuto y segundo deben tener dos dígitos, por ejemplo 00:00:00
+    // 2. La letra T no debe eliminarse
     date: "2024-10-11T20:00:00",
     // 双方的名字
     names: ["Minijean", "Miniari"]
