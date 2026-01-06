@@ -19,4 +19,4 @@ var config = {
     date: "2024-10-11T20:00:00",
     // 双方的名字
     names: ["Minijean", "Miniari"]
-}
+} 
